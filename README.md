@@ -19,7 +19,7 @@
 <ul>
   <li><a href = "helloworld.html"> Hello World </a></li>
   <li><a href = "bagels.html"> Bagels </a></li>
- </ul>
- </h3>
- </body>
- </html>
+</ul>
+</h3>
+</body>
+</html>
