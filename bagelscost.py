@@ -48,8 +48,8 @@ def display_results():
     print('Cream Cheese $ ' + format(cost_creamch, '8.2f'))
     print('---------------------------------')
     print('Subtotal    $' + format(subtotal, '8.2f'))
-    print('Sales Tax    $ ' + format(sales_tax, '8.2f'))
-    print('Total        $ ' + format(total, '8.2f'))
+    print('Sales Tax   $' + format(sales_tax, '8.2f'))
+    print('Total       $' + format(total, '8.2f'))
     print('-------------------------------')
     print(str(datetime.datetime.now()))
  
